@@ -39,5 +39,6 @@
 
 またGOOGLECOLABのノートでも実験できます
 現時点(2025年6月27日）では問題なく実行されております。
+
 Vanilla_SIFT.ipynb
 Adaptive_SIFT.ipynb
