@@ -27,8 +27,14 @@
 # pip install -r requirements.txt
 ```
 
-### EARLY-STOPPINGおない、様々なλで動かしたコード
+### EARLY-STOPPINGのない固定10ステップで学習、様々なλで動かすコード
+```
+# python Vanilla_SIFT.py
+```
+
+### EARLY-STOPPINGを使い疑似的にAdaptive＿SIFTを模倣したコード
 ```
 # python Adaptive_SIFT.py
 ```
+
 
